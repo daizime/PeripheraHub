@@ -1,0 +1,22 @@
+name: Native core checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  windows-native:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Configure without Qt
+        run: cmake -S . -B build -DPERIPHERAL_BUILD_APP=OFF -DBUILD_TESTING=ON
+      - name: Build
+        run: cmake --build build --config Release
+      - name: Run core tests
+        run: ctest --test-dir build -C Release --output-on-failure

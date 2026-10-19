@@ -1,0 +1,17 @@
+* text=auto eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+*.md text eol=lf
+*.ps1 text eol=lf
+*.yml text eol=lf
+*.qrc text eol=lf
+*.qss text eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.ico binary
+*.zip binary
+# Preserve byte-identical upstream assets and their recorded hashes.
+third_party/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

@@ -1,0 +1,249 @@
+{
+  "project": "https://github.com/microsoft/fluentui-system-icons",
+  "commit": "f1a33bcbe1b133cf36bbb80b2dc7ca935a1011bf",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2020 Microsoft Corporation",
+  "licenseSha256": "69bc45dc42b9acb96a69823adbc6ae538374e3c0bde169b855b32c48eaaef52f",
+  "assets": [
+    {
+      "name": "apps",
+      "variant": "regular",
+      "source": "assets/Apps/SVG/ic_fluent_apps_24_regular.svg",
+      "sha256": "49acd3ca4b7fffce746312a729ebc007ec82d3d7372be9830577f50b541fa6df"
+    },
+    {
+      "name": "apps",
+      "variant": "filled",
+      "source": "assets/Apps/SVG/ic_fluent_apps_24_filled.svg",
+      "sha256": "2f129b85454551f6e62525b34a19f113956a71ed4d278a897a1df51ca222ce9c"
+    },
+    {
+      "name": "save_multiple",
+      "variant": "regular",
+      "source": "assets/Save Multiple/SVG/ic_fluent_save_multiple_24_regular.svg",
+      "sha256": "0e2a30dff75c0e64815a2b300d0158e2834eb965509af5f2b7a7255578125de3"
+    },
+    {
+      "name": "save_multiple",
+      "variant": "filled",
+      "source": "assets/Save Multiple/SVG/ic_fluent_save_multiple_24_filled.svg",
+      "sha256": "c35cde50dfbd391cc791a832017df4f1d3d2dc0fed0d792a0001782390165ec3"
+    },
+    {
+      "name": "cursor",
+      "variant": "regular",
+      "source": "assets/Cursor/SVG/ic_fluent_cursor_24_regular.svg",
+      "sha256": "efe2e0a90260aedc81fefc45658d0e7d77ce78e09bf345ad8aedc6b0e28fd043"
+    },
+    {
+      "name": "cursor",
+      "variant": "filled",
+      "source": "assets/Cursor/SVG/ic_fluent_cursor_24_filled.svg",
+      "sha256": "22e8643fa776bd58bab8914caf3a196835746386f6f55ab47209011fc8750034"
+    },
+    {
+      "name": "desktop",
+      "variant": "regular",
+      "source": "assets/Desktop/SVG/ic_fluent_desktop_24_regular.svg",
+      "sha256": "320f7422cc8da3425d060c8c16e073c698209f2b970ade3c07b6553e1a52988d"
+    },
+    {
+      "name": "desktop",
+      "variant": "filled",
+      "source": "assets/Desktop/SVG/ic_fluent_desktop_24_filled.svg",
+      "sha256": "dd6a852fc0536f66a0084d63b0fbf8e06564deeb6d86d9680fe64386ca57529d"
+    },
+    {
+      "name": "keyboard",
+      "variant": "regular",
+      "source": "assets/Keyboard/SVG/ic_fluent_keyboard_24_regular.svg",
+      "sha256": "28ab75dbebc0371f8f4f28ca1011ed289439a895bbb0fac2679690987902b7cc"
+    },
+    {
+      "name": "keyboard",
+      "variant": "filled",
+      "source": "assets/Keyboard/SVG/ic_fluent_keyboard_24_filled.svg",
+      "sha256": "3d16a704a14f049c981e549b87e7facfeaf6f3a752013d10f8a8fe3c285f8e14"
+    },
+    {
+      "name": "headphones",
+      "variant": "regular",
+      "source": "assets/Headphones/SVG/ic_fluent_headphones_24_regular.svg",
+      "sha256": "0e5fac93a495b8f34c6c5ea422af3311684365dad4253c1714888f7c0656bbcc"
+    },
+    {
+      "name": "headphones",
+      "variant": "filled",
+      "source": "assets/Headphones/SVG/ic_fluent_headphones_24_filled.svg",
+      "sha256": "a516312a87c09b1a9933c87ee90ae12f523a467a34206dcc4f8cee7c36259f63"
+    },
+    {
+      "name": "brightness_high",
+      "variant": "regular",
+      "source": "assets/Brightness High/SVG/ic_fluent_brightness_high_24_regular.svg",
+      "sha256": "e61d78b040e20cd79943983d4104e13a71d6c0c0861bea24065aaa6159febe26"
+    },
+    {
+      "name": "brightness_high",
+      "variant": "filled",
+      "source": "assets/Brightness High/SVG/ic_fluent_brightness_high_24_filled.svg",
+      "sha256": "22e9ef94b67c1294ee4d8f65ccc4b2de562ea01a60279e459be2f7f2cb272113"
+    },
+    {
+      "name": "speaker_2",
+      "variant": "regular",
+      "source": "assets/Speaker 2/SVG/ic_fluent_speaker_2_24_regular.svg",
+      "sha256": "7e8c26c6b8283df8b41e786b0684fb37355bbafd626ea6567ae103f286b6c0e3"
+    },
+    {
+      "name": "speaker_2",
+      "variant": "filled",
+      "source": "assets/Speaker 2/SVG/ic_fluent_speaker_2_24_filled.svg",
+      "sha256": "f4239a7939ab77b97c4d4a8ddcd8900c484a69aa5404107568dbf83aa6435dfc"
+    },
+    {
+      "name": "speaker_mute",
+      "variant": "regular",
+      "source": "assets/Speaker Mute/SVG/ic_fluent_speaker_mute_24_regular.svg",
+      "sha256": "81ec1f94fe5f2bb9d677b37bd920a2dc7f1bcffac073f0d5f799340a75501170"
+    },
+    {
+      "name": "speaker_mute",
+      "variant": "filled",
+      "source": "assets/Speaker Mute/SVG/ic_fluent_speaker_mute_24_filled.svg",
+      "sha256": "76e0c934df91e7ba75da166ea8ff13c740bdc70079c73d6bf73daab245159f37"
+    },
+    {
+      "name": "mic",
+      "variant": "regular",
+      "source": "assets/Mic/SVG/ic_fluent_mic_24_regular.svg",
+      "sha256": "fd21c3468e1b22a4969982a36041189d96eb74fe6000d33dea3deef1f2eb30ca"
+    },
+    {
+      "name": "mic",
+      "variant": "filled",
+      "source": "assets/Mic/SVG/ic_fluent_mic_24_filled.svg",
+      "sha256": "284ed9926b877679bd9ae225a4acb79c67e521ef781ba5840f79293de1dcb6f7"
+    },
+    {
+      "name": "mic_off",
+      "variant": "regular",
+      "source": "assets/Mic Off/SVG/ic_fluent_mic_off_24_regular.svg",
+      "sha256": "3b35adc139947de500b10765ce54320bef86010c189076eddbd6bd0883c9111c"
+    },
+    {
+      "name": "mic_off",
+      "variant": "filled",
+      "source": "assets/Mic Off/SVG/ic_fluent_mic_off_24_filled.svg",
+      "sha256": "ed0319b56c53601f5f78aee2a42aac6a61c95c87917c0dafb19a251a01184aba"
+    },
+    {
+      "name": "arrow_sync",
+      "variant": "regular",
+      "source": "assets/Arrow Sync/SVG/ic_fluent_arrow_sync_24_regular.svg",
+      "sha256": "9537e4dc984b915d1d67bf2ed61c1fdf713c69d0b293a4dc12b2520d57ab55b7"
+    },
+    {
+      "name": "arrow_sync",
+      "variant": "filled",
+      "source": "assets/Arrow Sync/SVG/ic_fluent_arrow_sync_24_filled.svg",
+      "sha256": "5d8d4b30486f5a7156d8ea4e8bc2e6ea8e9503229e93a61b426f3e2a3d33056d"
+    },
+    {
+      "name": "text_bullet_list_ltr",
+      "variant": "regular",
+      "source": "assets/Text Bullet List LTR/SVG/ic_fluent_text_bullet_list_ltr_24_regular.svg",
+      "sha256": "579ae8ffa11cb8d15c8b0ba97aaf6bc76230ea3db12407acad018d1702d226c4"
+    },
+    {
+      "name": "text_bullet_list_ltr",
+      "variant": "filled",
+      "source": "assets/Text Bullet List LTR/SVG/ic_fluent_text_bullet_list_ltr_24_filled.svg",
+      "sha256": "2246637f5102f78d4876da52a604b1753f947fb0bbe25c42d659f3869b078321"
+    },
+    {
+      "name": "link",
+      "variant": "regular",
+      "source": "assets/Link/SVG/ic_fluent_link_24_regular.svg",
+      "sha256": "6792b4658fb8334e1214ec8c558e1295676d084ae7d3b7e60fe1339bfed28548"
+    },
+    {
+      "name": "link",
+      "variant": "filled",
+      "source": "assets/Link/SVG/ic_fluent_link_24_filled.svg",
+      "sha256": "429bc186d5b1e645d320551a18cc15965575dd501c61d5ff44b1c3d655629735"
+    },
+    {
+      "name": "more_horizontal",
+      "variant": "regular",
+      "source": "assets/More Horizontal/SVG/ic_fluent_more_horizontal_24_regular.svg",
+      "sha256": "aacb8ee10e503858f5465d18beb79f16d1ad790eb2b802127ee572062129fc3a"
+    },
+    {
+      "name": "more_horizontal",
+      "variant": "filled",
+      "source": "assets/More Horizontal/SVG/ic_fluent_more_horizontal_24_filled.svg",
+      "sha256": "511b3360106ecf63b63ed6b2a06ca52295aa49f21ebaf79aafa7cfde22488325"
+    },
+    {
+      "name": "chevron_up",
+      "variant": "regular",
+      "source": "assets/Chevron Up/SVG/ic_fluent_chevron_up_24_regular.svg",
+      "sha256": "052900e9e89261892a758ff3eab908013678a754a312d94f19444d864e3cfb8e"
+    },
+    {
+      "name": "chevron_up",
+      "variant": "filled",
+      "source": "assets/Chevron Up/SVG/ic_fluent_chevron_up_24_filled.svg",
+      "sha256": "54547d87b7ca51968691e2ffde6c9493bf16b4c3d6618330caa3f6e7459b6371"
+    },
+    {
+      "name": "chevron_down",
+      "variant": "regular",
+      "source": "assets/Chevron Down/SVG/ic_fluent_chevron_down_24_regular.svg",
+      "sha256": "52b3569967dcd33b226bd19a7cb3bf1bf491dd22822c4c3a8d36f80cb6612ffa"
+    },
+    {
+      "name": "chevron_down",
+      "variant": "filled",
+      "source": "assets/Chevron Down/SVG/ic_fluent_chevron_down_24_filled.svg",
+      "sha256": "742b175352c68adec30caf7a83ea08d110a7a220fc18134399becb915397e231"
+    },
+    {
+      "name": "arrow_exit",
+      "variant": "regular",
+      "source": "assets/Arrow Exit/SVG/ic_fluent_arrow_exit_24_regular.svg",
+      "sha256": "652623542a0fe1a3c865f1afab2387fed2ba81cee4be045386e3153e27ca02d6"
+    },
+    {
+      "name": "arrow_exit",
+      "variant": "filled",
+      "source": "assets/Arrow Exit/SVG/ic_fluent_arrow_exit_24_filled.svg",
+      "sha256": "5a61c0fc7d2d7e985695ff68f797c57aeded8d7f1ca26d849aeeefd64fe735c0"
+    },
+    {
+      "name": "info",
+      "variant": "regular",
+      "source": "assets/Info/SVG/ic_fluent_info_24_regular.svg",
+      "sha256": "ec9891767b25630079faca1b06026cab94eee56129dc1264a40d256aa65911bb"
+    },
+    {
+      "name": "info",
+      "variant": "filled",
+      "source": "assets/Info/SVG/ic_fluent_info_24_filled.svg",
+      "sha256": "fe3cab0fb4098c0d83c227232d65f82596a232ca4dbb5916a4ebd5326b12257a"
+    },
+    {
+      "name": "settings",
+      "variant": "regular",
+      "source": "assets/Settings/SVG/ic_fluent_settings_24_regular.svg",
+      "sha256": "5ac05e6e11c9ec9f24703091c42ca1f5c91f4032cb0eee35c892d1872a38871b"
+    },
+    {
+      "name": "settings",
+      "variant": "filled",
+      "source": "assets/Settings/SVG/ic_fluent_settings_24_filled.svg",
+      "sha256": "c19ff922990add433c3d5ddc2fb9843b3e4d31c1074ef05295d46c4ec8f23c83"
+    }
+  ]
+}

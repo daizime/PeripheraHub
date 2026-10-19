@@ -1,0 +1,24 @@
+#pragma once
+#include "core/vgn_config.h"
+namespace fixture {
+// User's awake F2 Master+ 3554:FB56, 2026-10-19. Query-only capture.
+// Original log: work/research/release-20261019/vgn-awake-profile.log.
+inline constexpr std::array<peripheral::vgn::Report, 10> f2Profile{{
+    {8,8,0,0,0,10,1,0x54,6,0x4f,3,0x52,0,0x55,0,0x55,0x92},
+    {8,8,0,0,10,10,1,0x54,7,7,0,0x47,15,15,0,0x37,0x32},
+    {8,8,0,0,20,10,0x1f,0x1f,0,0x17,0x3f,0x3f,0,0xd7,0x7f,0x7f,0x7f},
+    {8,8,0,0,30,10,0,0x57,0xa3,0xa3,0x55,0xba,0xa3,0xa3,0x55,0xba,0x1c},
+    {8,8,0,0,40,4,0xa3,0xa3,0x55,0xba,0,0,0,0,0,0,0xc4},
+    {8,8,0,0,0xa8,10,0x55,0,0x55,1,0x54,6,0x4f,0,0x55,0,0xea},
+    {8,8,0,0,0xb2,5,0x55,0,0x55,0,0x55,0,0,0,0,0,0x8f},
+    {8,8,0,0,0x60,10,1,1,0,0x53,1,2,0,0x52,1,4,0x2c},
+    {8,8,0,0,0x6a,10,0,0x50,1,8,0,0x4c,1,0x10,0,0x44,0xd7},
+    {8,8,0,0,0x74,4,2,1,0,0x52,0,0,0,0,0,0,0x78}
+}};
+inline peripheral::vgn::ProfileCapture f2Capture() {
+    peripheral::vgn::ProfileCapture capture;
+    for (std::size_t index = 0; index < f2Profile.size(); ++index)
+        capture.accept(peripheral::vgn::kProfileReads[index], f2Profile[index]);
+    return capture;
+}
+} // namespace fixture

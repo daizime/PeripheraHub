@@ -1,0 +1,57 @@
+{
+    "frames": [
+        {
+            "file": "peripheral-hub-16.png",
+            "sha256": "ab07b75ed8348132686dffa44ea8311b87f653ab591472de26646e0362cd89e4",
+            "size": 16
+        },
+        {
+            "file": "peripheral-hub-20.png",
+            "sha256": "d9eeeb31d42ceb21f1f411904cdd53bde3fefe926a149bb1c0051d8d54ea2fea",
+            "size": 20
+        },
+        {
+            "file": "peripheral-hub-24.png",
+            "sha256": "a3db5a7390efea28fccb8cc7c3f184bf07d8f315fbd6eb0f403517fd841de3f0",
+            "size": 24
+        },
+        {
+            "file": "peripheral-hub-32.png",
+            "sha256": "02a4aa5faa0bfffe1dd0b151425f5d266b7d915da6d0984db744475cd930d13a",
+            "size": 32
+        },
+        {
+            "file": "peripheral-hub-40.png",
+            "sha256": "0c5324f3f5d9c506457245c29d384504360ecfd99f3c36dc29423bb2b30d4da6",
+            "size": 40
+        },
+        {
+            "file": "peripheral-hub-48.png",
+            "sha256": "9cb5a498e4abc99d7881d42cdd93878fafba97ba944f25e310dce18bc3af99e8",
+            "size": 48
+        },
+        {
+            "file": "peripheral-hub-64.png",
+            "sha256": "c5171ac896250080bd08189ede16f6aa99a342f3b303f9f1bcf62fd93db84b66",
+            "size": 64
+        },
+        {
+            "file": "peripheral-hub-128.png",
+            "sha256": "1135473720febc49902d0e43bc41763a94565439337e9f35a9c188c68bdd7776",
+            "size": 128
+        },
+        {
+            "file": "peripheral-hub-256.png",
+            "sha256": "3f05b882a57568f472d9079d4fc6be6025ca5c4dac2cb8756c23efb476ef6735",
+            "size": 256
+        },
+        {
+            "file": "peripheral-hub-512.png",
+            "sha256": "790fb5f33ddcc61d55faecb5374efd94ebed0babfdd3e09be8a1a5de41e54da0",
+            "size": 512
+        }
+    ],
+    "generator": "imagegen; Qt PNG resize and ICO packaging",
+    "icoSha256": "9693c2c20c75ea5b3fc217756e02249220063241dd2c4416d788edcdb5b3ffb9",
+    "sourceSha256": "7a7b66c9310520214747f56aa45f331183a45f5fb58a80aa759acd1ec0dca597"
+}
